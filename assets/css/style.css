@@ -2,6 +2,7 @@
 Keep these credits intact if you want to use this theme
 Theme Name - Yank
 Theme Framework - Bootstrap 4
+Theme URL - https://angrystudio.com/themes/yank-free-bootstrap-4-template/
 Designer Name - Angry Studio
 Designer Website - https://angrystudio.com
 */
@@ -9,7 +10,6 @@ Designer Website - https://angrystudio.com
 :root {
 	--main: #3187FF;
 	--maindark: #1c6bda;
-	/*-- main button gradient --*/
 	--main-hover: #2477ec;
 }
 
